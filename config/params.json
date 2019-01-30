@@ -1,0 +1,9 @@
+{
+  "port": "4000",
+  "project": "MyShop",
+  "teamsChannelName": "MyShop channel",
+  "keyword": "done",
+  "users": [
+    "default-user"
+  ]
+}
