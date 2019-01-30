@@ -1,13 +1,13 @@
 # Teams Bot PoC
 
-## Setup
+## Setup
 
 ```bash
 $ npm i
 $ npm start
 ```
 
-## Demo
+## Demo
 
 You can test it using [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator).
 Endpoint to configure: `http://localhost:{port}/api/messages`.
